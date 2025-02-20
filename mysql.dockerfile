@@ -3,7 +3,7 @@ FROM mysql:latest
 
 # Define variáveis de ambiente para configurar o banco
 ENV MYSQL_ROOT_PASSWORD=root
-ENV MYSQL_DATABASE=meubanco
+ENV MYSQL_DATABASE=minicurso
 ENV MYSQL_USER=aluno
 ENV MYSQL_PASSWORD=ifnmg
 
